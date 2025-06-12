@@ -3,8 +3,8 @@
 
 **Curso:** Sistemas de Informação  
 **Disciplina:** Computação e Algoritmos  
-**Aluno:** _[Seu Nome Aqui]_  
-**Data:** _[Inserir data]_  
+**Aluno:** Davi Ribeiro  
+**Data:** 11-06-2025  
 
 ---
 
